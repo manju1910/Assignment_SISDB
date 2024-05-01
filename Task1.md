@@ -65,7 +65,7 @@ CREATE TABLE Payments (
 ```
 
 ## 3. Create an ERD (Entity Relationship Diagram) for the database
-   -- https://lucid.app/lucidchart/6a950a74-259b-45eb-9b83-a52039eea7ca/edit?viewport_loc=-735%2C-215%2C3239%2C1517%2C0_0&invitationId=inv_8981cd3c-b973-453b-aed7-b6e6520c0be3https://lucid.app/lucidchart/6a950a74-259b-45eb-9b83-a52039eea7ca/edit?viewport_loc=-735%2C-215%2C3239%2C1517%2C0_0&invitationId=inv_8981cd3c-b973-453b-aed7-b6e6520c0be3
+   ![Alt text](Er.png)
 
 
  ## 4. Create appropriate Primary Key and Foreign Key constraints for referential integrity
